@@ -68,5 +68,3 @@ self-learning-ai-agent/
 - Add a web UI
 - Add tools and feedback-based evaluation
 
-## License
-MIT
